@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfpdate",
+        "uuid": 5659902,
+        "checksum": "k5y7d"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
